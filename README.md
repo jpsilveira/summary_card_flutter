@@ -11,7 +11,9 @@ Summary Card is an example of data consumption through GraphQl technology, using
 * Status management via ChangeNotifier;
 * Consumption of GraphQL data through "subscription", allowing real time updates of the Card data;
 * Adaptable layout for different screen sizes;
-* Separation of main widgets.
+* Separation of main widgets;
+* Handling of integer and double values for json;
+* Trucate treatment of decimals for certain values.
 
 ## Architecture
 
